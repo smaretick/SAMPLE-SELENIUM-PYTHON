@@ -1,0 +1,4 @@
+
+1. put Firefox/Chrome on desktop (or have path to it)
+2. create folder to store screen shots(e.g., NATERA_SCREEN) 
+3. from command line execute "python natera.py"
